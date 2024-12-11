@@ -1,0 +1,87 @@
+[
+  {
+    "ID": "sound_bg",
+    "Type": 1,
+    "Path": "Sound/sound_bg"
+  },
+  {
+    "ID": "sound_eff_achive",
+    "Type": 2,
+    "Path": "Sound/sound_eff_achive"
+  },
+  {
+    "ID": "sound_eff_button",
+    "Type": 2,
+    "Path": "Sound/sound_eff_button"
+  },
+  {
+    "ID": "sound_eff_clear_1",
+    "Type": 2,
+    "Path": "Sound/sound_eff_clear_1"
+  },
+  {
+    "ID": "sound_eff_clear_2",
+    "Type": 2,
+    "Path": "Sound/sound_eff_clear_2"
+  },
+  {
+    "ID": "sound_eff_click_1",
+    "Type": 2,
+    "Path": "Sound/sound_eff_click_1"
+  },
+  {
+    "ID": "sound_eff_coin",
+    "Type": 2,
+    "Path": "Sound/sound_eff_coin"
+  },
+  {
+    "ID": "sound_eff_levelUp",
+    "Type": 2,
+    "Path": "Sound/sound_eff_levelUp"
+  },
+  {
+    "ID": "sound_eff_newNum",
+    "Type": 2,
+    "Path": "Sound/sound_eff_newNum"
+  },
+  {
+    "ID": "sound_eff_popup",
+    "Type": 2,
+    "Path": "Sound/sound_eff_popup"
+  },
+  {
+    "ID": "sound_eff_task",
+    "Type": 2,
+    "Path": "Sound/sound_eff_task"
+  },
+  {
+    "ID": "sound_eff_victory",
+    "Type": 2,
+    "Path": "Sound/sound_eff_victory"
+  },
+  {
+    "ID": "sound_eff_item_bomb",
+    "Type": 2,
+    "Path": "Sound/sound_eff_item_bomb"
+  },
+  {
+    "ID": "sound_eff_item_hammer",
+    "Type": 2,
+    "Path": "Sound/sound_eff_item_hammer"
+  },
+  {
+    "ID": "sound_eff_item_star",
+    "Type": 2,
+    "Path": "Sound/sound_eff_item_star"
+  },
+  {
+    "ID": "sound_eff_item_tips",
+    "Type": 2,
+    "Path": "Sound/sound_eff_item_tips"
+  },
+  {
+    "ID": "sound_eff_star_2",
+    "Type": 2,
+    "Path": "Sound/sound_eff_star_2"
+  }
+]

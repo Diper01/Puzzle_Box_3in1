@@ -1,0 +1,32 @@
+[
+  {
+    "ID": 1,
+    "Number": 2,
+    "Percent": 25
+  },
+  {
+    "ID": 2,
+    "Number": 4,
+    "Percent": 25
+  },
+  {
+    "ID": 3,
+    "Number": 8,
+    "Percent": 20
+  },
+  {
+    "ID": 4,
+    "Number": 16,
+    "Percent": 15
+  },
+  {
+    "ID": 5,
+    "Number": 32,
+    "Percent": 10
+  },
+  {
+    "ID": 6,
+    "Number": 64,
+    "Percent": 5
+  }
+]

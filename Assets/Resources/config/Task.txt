@@ -1,0 +1,32 @@
+[
+  {
+    "ID": 100101,
+    "Value": 500,
+    "Item": 5,
+    "Desc": "break_300_squares"
+  },
+  {
+    "ID": 100102,
+    "Value": 200,
+    "Item": 5,
+    "Desc": "launch_100_squares"
+  },
+  {
+    "ID": 100103,
+    "Value": 10,
+    "Item": 5,
+    "Desc": "compose_the_number_10_in_merge"
+  },
+  {
+    "ID": 100104,
+    "Value": 1024,
+    "Item": 5,
+    "Desc": "compose_the_number_1024_in_the_shoot"
+  },
+  {
+    "ID": 100105,
+    "Value": 1,
+    "Item": 5,
+    "Desc": "watch_a_video"
+  }
+]

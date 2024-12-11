@@ -1,0 +1,51 @@
+[
+  {
+    "ID": 301,
+    "Lv": 0,
+    "Star": 1,
+    "Count": 15,
+    "Lang": "novice_a"
+  },
+  {
+    "ID": 302,
+    "Lv": 1,
+    "Star": 2,
+    "Count": 35,
+    "Lang": "normal_a"
+  },
+  {
+    "ID": 303,
+    "Lv": 2,
+    "Star": 3,
+    "Count": 50,
+    "Lang": "advanced_a"
+  },
+  {
+    "ID": 304,
+    "Lv": 3,
+    "Star": 3,
+    "Count": 50,
+    "Lang": "advanced_b"
+  },
+  {
+    "ID": 305,
+    "Lv": 4,
+    "Star": 4,
+    "Count": 50,
+    "Lang": "expert_a"
+  },
+  {
+    "ID": 306,
+    "Lv": 5,
+    "Star": 4,
+    "Count": 50,
+    "Lang": "expert_b"
+  },
+  {
+    "ID": 307,
+    "Lv": 6,
+    "Star": 5,
+    "Count": 50,
+    "Lang": "master_a"
+  }
+]

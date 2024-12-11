@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: c4bdf99735b848edba79405b2f281829
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: -138, y: -50}
+      - {x: -134, y: 15}
+      - {x: 144, y: -50}
+    - - {x: 99, y: -37}
+      - {x: 144, y: -50}
+      - {x: -134, y: 15}
+    - - {x: 99, y: 38}
+      - {x: 144, y: -50}
+      - {x: 99, y: -37}
+    - - {x: 130, y: 50}
+      - {x: 144, y: -50}
+      - {x: 99, y: 38}
+    - - {x: 148, y: 37}
+      - {x: 144, y: -50}
+      - {x: 130, y: 50}
+    - - {x: 148, y: -34}
+      - {x: 144, y: -50}
+      - {x: 148, y: 37}
+    - - {x: -148, y: -28}
+      - {x: -148, y: 38}
+      - {x: -138, y: -50}
+    - - {x: -134, y: 50}
+      - {x: -138, y: -50}
+      - {x: -148, y: 38}
+    - - {x: -134, y: 15}
+      - {x: -138, y: -50}
+      - {x: -134, y: 50}
+    - - {x: -99, y: 38}
+      - {x: -134, y: 15}
+      - {x: -134, y: 50}
+    - - {x: 130, y: 50}
+      - {x: -99, y: 38}
+      - {x: -134, y: 50}
+    - - {x: 99, y: 38}
+      - {x: -99, y: 38}
+      - {x: 130, y: 50}
+    physicsShape:
+    - - {x: 148, y: -18}
+      - {x: 148, y: 17}
+      - {x: 145, y: 28}
+      - {x: 126, y: 47}
+      - {x: 114, y: 50}
+      - {x: -119, y: 50}
+      - {x: -138, y: 36}
+      - {x: -148, y: 17}
+      - {x: -148, y: -15}
+      - {x: -142, y: -30}
+      - {x: -125, y: -46}
+      - {x: -113, y: -50}
+      - {x: 112, y: -50}
+      - {x: 119, y: -49}
+      - {x: 128, y: -44}
+      - {x: 144, y: -27}
+    - - {x: -134, y: -12}
+      - {x: -136, y: 9}
+      - {x: -121, y: 32}
+      - {x: -110, y: 36}
+      - {x: -106, y: 39}
+      - {x: 106, y: 39}
+      - {x: 106, y: 38}
+      - {x: 136, y: 8}
+      - {x: 121, y: -32}
+      - {x: 106, y: -37}
+      - {x: 106, y: -39}
+      - {x: -107, y: -38}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
